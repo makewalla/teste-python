@@ -1,3 +1,5 @@
+print("ola mundo")
+
 def soma (a,b):
     return f"a soma de {a} e {b} é {a+b}"
 
